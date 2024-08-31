@@ -1,0 +1,1 @@
+MATLAB tabanlı okul alım sistemi, öğrenci başvurularını değerlendirmek ve kabul süreçlerini yönetmek için geliştirilmiştir. Sistem, başvuru kriterlerini analiz ederek adayları puanlar ve sıralar. Kullanıcı dostu arayüzü ile verimli ve adil bir kabul süreci sağlar.
